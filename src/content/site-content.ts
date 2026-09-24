@@ -32,7 +32,7 @@ export const siteContentEn = {
     entityCard: {
       title: "ARSOPA Solutions S.A.",
       details: [
-        "Panama · IFZA Free Zone",
+        "Dubai · Business Bay",
         "B2B digital marketing services company",
       ],
     },
@@ -59,7 +59,7 @@ export const siteContentEn = {
   about: {
     eyebrow: "Company Background",
     title: "About ARSOPA Solutions S.A.",
-    body: "ARSOPA Solutions S.A. is a Panama-based services company (Law 32 of 2011) dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
+    body: "ARSOPA Solutions S.A. is a Dubai-based services company dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
     // representative: {
     //   label: "Legal Representative",
     //   name: "Kevin",
@@ -270,8 +270,7 @@ export const siteContentEn = {
       },
     ],
     legalLine:
-      "ARSOPA Solutions S.A. · Panama, Republic of Panama. All rights reserved.",
-    // TODO: add RUC once available
+      "ARSOPA Solutions S.A. · Dubai, United Arab Emirates. All rights reserved.",
   },
 } as const;
 
