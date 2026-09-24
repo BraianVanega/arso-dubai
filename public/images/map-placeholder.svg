@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title">
+  <title id="title">Office map placeholder</title>
+  <rect width="960" height="540" fill="#f1f5f9"/>
+  <rect x="40" y="40" width="880" height="460" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+  <path d="M80 360 L220 280 L360 320 L520 220 L700 300 L880 240" fill="none" stroke="#1d4ed8" stroke-width="4"/>
+  <circle cx="520" cy="220" r="14" fill="#0f766e"/>
+  <text x="480" y="480" text-anchor="middle" fill="#475569" font-family="Inter, system-ui, sans-serif" font-size="18">Map (placeholder)</text>
+</svg>
