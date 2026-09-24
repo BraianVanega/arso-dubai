@@ -60,11 +60,11 @@ export const siteContentEn = {
     eyebrow: "Company Background",
     title: "About ARSOPA Solutions S.A.",
     body: "ARSOPA Solutions S.A. is a Panama-based services company (Law 32 of 2011) dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
-    representative: {
-      label: "Legal Representative",
-      name: "Kevin",
-      role: "Registered Legal Representative",
-    },
+    // representative: {
+    //   label: "Legal Representative",
+    //   name: "Kevin",
+    //   role: "Registered Legal Representative",
+    // },
     teamNote:
       "Interdisciplinary consulting team — presented only with true, verifiable information.",
   },
@@ -202,8 +202,8 @@ export const siteContentEn = {
       "Start a confidential conversation with our team to schedule a discovery session.",
     officeLabel: "Head Office",
     officeDetails: {
-      address: "Panama, Republic of Panama", // TODO: confirm exact official address
-      email: "", // TODO: corporate email
+      address: "Dubai, United Arab Emirates", // TODO: confirm exact official address
+      email: "contact@arsopa.com", // TODO: corporate email
       phone: "", // TODO: corporate phone
       hours: "", // TODO: business hours
     },
