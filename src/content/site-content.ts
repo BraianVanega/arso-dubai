@@ -1,17 +1,17 @@
 // src/content/site-content.en.ts
-// English content for ARSOPA Solutions S.A. — Dubai / international deployment.
+// English content for ARSOSPA MARKETING - FZCO — Dubai / international deployment.
 // Mirrors the structure of site-content.ts (Spanish). Do not invent clients, figures,
 // certifications, or testimonials — same governance rule as the Spanish version.
 
 export const siteContentEn = {
   meta: {
-    title: "ARSOPA Solutions S.A. | B2B Digital Marketing Services",
+    title: "ARSOSPA MARKETING - FZCO | B2B Digital Marketing Services",
     description:
       "We design, implement, and manage digital growth strategies for emerging, small, and medium-sized businesses expanding into new markets.",
   },
 
   header: {
-    brandName: "ARSOPA SOLUTIONS S.A.",
+    brandName: "ARSOSPA MARKETING - FZCO",
     tagline: "B2B Digital Marketing Services",
     nav: [
       { label: "Home", href: "#home" },
@@ -30,7 +30,7 @@ export const siteContentEn = {
     primaryCta: "Explore our services",
     secondaryCta: "Request a consultation",
     entityCard: {
-      title: "ARSOPA Solutions S.A.",
+      title: "ARSOSPA MARKETING - FZCO",
       details: [
         "Dubai · Business Bay",
         "B2B digital marketing services company",
@@ -58,8 +58,8 @@ export const siteContentEn = {
 
   about: {
     eyebrow: "Company Background",
-    title: "About ARSOPA Solutions S.A.",
-    body: "ARSOPA Solutions S.A. is a Dubai-based services company dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
+    title: "About ARSOSPA MARKETING - FZCO",
+    body: "ARSOSPA MARKETING - FZCO is a Dubai-based services company dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
     // representative: {
     //   label: "Legal Representative",
     //   name: "Kevin",
@@ -136,7 +136,7 @@ export const siteContentEn = {
     subtitle:
       "We work on the variables that determine a business's commercial growth in digital markets.",
     disclaimer:
-      "ARSOPA delivers strategy, implementation, and follow-up — results depend on joint execution and market conditions.",
+      "ARSOSPA MARKETING - FZCO delivers strategy, implementation, and follow-up — results depend on joint execution and market conditions.",
     items: [
       {
         title: "Strategy & Positioning",
@@ -163,14 +163,14 @@ export const siteContentEn = {
 
   transparencyBanner: {
     label: "Transparency & Results Clause",
-    text: "ARSOPA Solutions S.A. delivers digital marketing strategy, implementation, and management services under formal contracts. The company does NOT guarantee specific campaign results, nor does it manage third-party advertising budgets beyond what is expressly authorized by contract.",
+    text: "ARSOSPA MARKETING - FZCO delivers digital marketing strategy, implementation, and management services under formal contracts. The company does NOT guarantee specific campaign results, nor does it manage third-party advertising budgets beyond what is expressly authorized by contract.",
   },
 
   compliance: {
     eyebrow: "Regulatory Framework",
     title: "Compliance, Transparency & Contractual Rigor",
     intro:
-      "ARSOPA Solutions S.A. delivers its services under principles of transparency and contractual discipline. Every project is formalized through a proposal or contract that defines its scope, deliverables, responsibilities, and terms.",
+      "ARSOSPA MARKETING - FZCO delivers its services under principles of transparency and contractual discipline. Every project is formalized through a proposal or contract that defines its scope, deliverables, responsibilities, and terms.",
     items: [
       {
         title: "Formalized Contracts & Confidentiality",
@@ -249,7 +249,7 @@ export const siteContentEn = {
   footer: {
     columns: [
       {
-        title: "ARSOPA Solutions",
+        title: "ARSOSPA MARKETING - FZCO",
         items: ["About Us", "Consulting Team", "Compliance"],
       },
       {
@@ -270,7 +270,7 @@ export const siteContentEn = {
       },
     ],
     legalLine:
-      "ARSOPA Solutions S.A. · Dubai, United Arab Emirates. All rights reserved.",
+      "ARSOSPA MARKETING - FZCO · Dubai, United Arab Emirates. All rights reserved.",
   },
 } as const;
 

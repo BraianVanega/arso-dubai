@@ -33,7 +33,7 @@ export function Hero() {
             <div className="relative aspect-video bg-surface-container">
               <Image
                 src="/images/map-placeholder.svg"
-                alt="Institutional image of ARSOPA Solutions S.A. (placeholder)"
+                alt="Institutional image of ARSOSPA MARKETING - FZCO (placeholder)"
                 fill
                 priority
                 unoptimized
