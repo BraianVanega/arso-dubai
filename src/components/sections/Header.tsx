@@ -14,7 +14,7 @@ export function Header() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-outline bg-surface shadow-sm">
-      <Container className="flex h-16 items-center justify-between gap-4">
+      <Container className="flex h-20 items-center justify-between gap-4">
         <Logo />
 
         <nav

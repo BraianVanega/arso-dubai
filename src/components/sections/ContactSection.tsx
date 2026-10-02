@@ -38,7 +38,7 @@ export function ContactSection() {
     <section
       id="contact"
       aria-labelledby="contact-title"
-      className="scroll-mt-16 py-16 sm:py-20 lg:py-24"
+      className="scroll-mt-20 py-16 sm:py-20 lg:py-24"
     >
       <Container>
         <SectionHeading

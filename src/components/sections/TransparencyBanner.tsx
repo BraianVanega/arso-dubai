@@ -8,7 +8,7 @@ export function TransparencyBanner() {
   return (
     <section
       aria-labelledby="transparency-title"
-      className="scroll-mt-16 border-b border-outline bg-surface-container py-16 sm:py-20 lg:py-24"
+      className="scroll-mt-20 border-b border-outline bg-surface-container py-16 sm:py-20 lg:py-24"
     >
       <Container>
         <div className="rounded-lg border border-primary bg-primary-light p-6 sm:p-8 lg:p-10">

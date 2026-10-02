@@ -36,12 +36,11 @@ export function Footer() {
               {index === 0 ? (
                 <div className="mb-4">
                   <Image
-                    src="/images/logo-placeholder.svg"
+                    src="/images/logo.png"
                     alt=""
-                    width={40}
-                    height={40}
-                    unoptimized
-                    className="size-10 object-contain"
+                    width={626}
+                    height={719}
+                    className="h-16 w-auto object-contain"
                   />
                 </div>
               ) : null}

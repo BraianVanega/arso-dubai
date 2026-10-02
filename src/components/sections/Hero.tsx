@@ -11,7 +11,7 @@ export function Hero() {
   const { hero } = siteContent;
 
   return (
-    <section id="home" className="scroll-mt-16 border-b border-outline pt-16">
+    <section id="home" className="scroll-mt-20 border-b border-outline pt-20">
       <Container className="py-16 sm:py-20 lg:py-24">
         <div className="grid items-start gap-10 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)] lg:gap-14">
           <div>

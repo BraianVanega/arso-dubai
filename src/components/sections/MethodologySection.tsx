@@ -10,7 +10,7 @@ export function MethodologySection() {
     <section
       id="methodology"
       aria-labelledby="methodology-title"
-      className="scroll-mt-16 border-b border-outline py-16 sm:py-20 lg:py-24"
+      className="scroll-mt-20 border-b border-outline py-16 sm:py-20 lg:py-24"
     >
       <Container>
         <SectionHeading

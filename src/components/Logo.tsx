@@ -11,13 +11,12 @@ export function Logo() {
       aria-label={header.brandName}
     >
       <Image
-        src="/images/logo-placeholder.svg"
+        src="/images/logo.png"
         alt=""
-        width={40}
-        height={40}
+        width={626}
+        height={719}
         priority
-        unoptimized
-        className="size-10 shrink-0 object-contain"
+        className="h-14 w-auto shrink-0 object-contain"
       />
       <span className="flex min-w-0 flex-col">
         <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-on-surface">
