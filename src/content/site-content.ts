@@ -1,18 +1,19 @@
 // src/content/site-content.en.ts
 // English content for ARSOSPA MARKETING - FZCO — Dubai / international deployment.
+// Activity: financial, operational & technology consulting.
 // Mirrors the structure of site-content.ts (Spanish). Do not invent clients, figures,
 // certifications, or testimonials — same governance rule as the Spanish version.
 
 export const siteContentEn = {
   meta: {
-    title: "ARSOSPA MARKETING - FZCO | B2B Digital Marketing Services",
+    title: "ARSOSPA MARKETING - FZCO | Financial, Operational & Technology Consulting",
     description:
-      "We design, implement, and manage digital growth strategies for emerging, small, and medium-sized businesses expanding into new markets.",
+      "Financial and operational consulting, technology development, and transactional process optimization for companies seeking greater efficiency, security, and traceability.",
   },
 
   header: {
     brandName: "ARSOSPA MARKETING - FZCO",
-    tagline: "B2B Digital Marketing Services",
+    tagline: "Financial & Technology Consulting",
     nav: [
       { label: "Home", href: "#home" },
       { label: "Services", href: "#services" },
@@ -24,16 +25,16 @@ export const siteContentEn = {
   },
 
   hero: {
-    headline: "Digital strategies to scale your business into new markets.",
+    headline: "More efficient, secure, and traceable financial processes.",
     subtext:
-      "We help emerging, small, and medium-sized businesses digitalize their commercial processes, capture new clients, and expand through results-driven digital marketing strategies.",
+      "Financial and operational consulting, technology development, and transactional process optimization for companies seeking greater efficiency, security, and traceability.",
     primaryCta: "Explore our services",
     secondaryCta: "Request a consultation",
     entityCard: {
       title: "ARSOSPA MARKETING - FZCO",
       details: [
         "Dubai · Business Bay",
-        "B2B digital marketing services company",
+        "Financial, operational & technology consulting",
       ],
     },
     trustBadges: [
@@ -42,24 +43,26 @@ export const siteContentEn = {
         description: "Every engagement is defined by a clear scope and terms.",
       },
       {
-        title: "Data-Driven Strategy",
-        description: "Decisions backed by metrics, not promises.",
+        title: "Internal Control",
+        description:
+          "Control procedures, documentation, and monitoring of every operation.",
       },
       {
-        title: "Specialized B2B Focus",
-        description: "Built for emerging, small, and medium-sized businesses.",
+        title: "Traceability",
+        description: "Orderly, measurable, and verifiable transactional flows.",
       },
       {
-        title: "International Reach",
-        description: "Strategies designed for multiple markets.",
+        title: "Tailored Solutions",
+        description:
+          "Adapted to each organization's tools and management structure.",
       },
     ],
   },
 
   about: {
-    eyebrow: "Company Background",
+    eyebrow: "Who We Are & What We Do",
     title: "About ARSOSPA MARKETING - FZCO",
-    body: "ARSOSPA MARKETING - FZCO is a Dubai-based services company dedicated to providing digital marketing services internationally, under a business-to-business (B2B) model. We work with emerging, small, and medium-sized businesses that need solutions for digitalizing their commercial processes, capturing clients, and expanding into new markets.",
+    body: "ARSOSPA MARKETING - FZCO is a Dubai-based services company specializing in consulting on financial and administrative processes, as well as in the design, development, and implementation of technology solutions that optimize the management of payments, collections, reconciliations, and operations in digital environments. Our approach combines operational expertise, digital tools, and internal control criteria to help companies structure their transactional flows, strengthen oversight of their operations, and use their resources more efficiently.",
     // representative: {
     //   label: "Legal Representative",
     //   name: "Kevin",
@@ -70,21 +73,39 @@ export const siteContentEn = {
   },
 
   services: {
-    eyebrow: "Service Catalog",
-    title: "Digital Marketing Solutions for Businesses",
+    eyebrow: "Service Lines",
+    title: "Our Main Service Lines",
     subtitle:
-      "We design, implement, and manage digital strategies focused on the commercial growth of emerging, small, and medium-sized businesses.",
+      "We combine operational expertise, digital tools, and internal control criteria to build more efficient, secure, and traceable transactional flows.",
     items: [
-      "Design and implementation of digital growth strategies",
-      "Digital marketing campaigns",
-      "Lead generation",
-      "Sales automation",
-      "Digital positioning",
-      "Commercial channel management",
-      "Client acquisition process optimization",
+      {
+        title: "Specialized Consulting & Advisory",
+        description:
+          "Assessment, design, and improvement of financial, administrative, and operational processes.",
+      },
+      {
+        title: "Payments & Collections Management",
+        description:
+          "Structuring of procedures, operational coordination, and optimization of transactional flows.",
+      },
+      {
+        title: "Control & Reconciliation",
+        description:
+          "Implementation of mechanisms to record, verify, reconcile, and track operations.",
+      },
+      {
+        title: "Technology Development & Infrastructure",
+        description:
+          "Design and implementation of digital solutions for process automation, oversight, and management.",
+      },
+      {
+        title: "Internal Controls & Traceability",
+        description:
+          "Definition of control procedures, documentation, and monitoring of financial movements.",
+      },
     ],
     scopeNote:
-      "We work under a business-to-business (B2B) model, serving emerging, small, and medium-sized businesses.",
+      "Consulting and technology development services for companies seeking greater efficiency, security, and traceability in their operations.",
   },
 
   methodology: {
@@ -101,9 +122,9 @@ export const siteContentEn = {
       },
       {
         number: "02",
-        title: "Needs Assessment",
+        title: "Process Assessment",
         description:
-          "Review of the client's commercial processes and digitalization goals.",
+          "Review of the client's financial, administrative, and operational processes.",
       },
       {
         number: "03",
@@ -114,7 +135,7 @@ export const siteContentEn = {
       {
         number: "04",
         title: "Analysis",
-        description: "Review of channels, audience, and market opportunities.",
+        description: "Evaluation of transactional flows, internal controls, and improvement opportunities.",
       },
       {
         number: "05",
@@ -131,39 +152,39 @@ export const siteContentEn = {
   },
 
   growthAreas: {
-    eyebrow: "Scope of Service",
-    title: "Strategic Areas of Intervention",
+    eyebrow: "The Challenge We Solve",
+    title: "From fragmented processes to traceable flows",
     subtitle:
-      "We work on the variables that determine a business's commercial growth in digital markets.",
+      "Many organizations manage their financial operations through manual procedures, fragmented systems, or insufficient tracking mechanisms. This can lead to duplicated tasks, delays, reconciliation difficulties, reduced visibility over transactions, and greater operational risk. We work to turn these processes into more orderly, measurable, and traceable flows, enabling more consistent administrative and financial management.",
     disclaimer:
-      "ARSOSPA MARKETING - FZCO delivers strategy, implementation, and follow-up — results depend on joint execution and market conditions.",
+      "Every solution is adapted to the organization's needs, tools, and management structure, prioritizing efficiency and operational continuity.",
     items: [
       {
-        title: "Strategy & Positioning",
-        description: "Defining the business's digital value proposition.",
+        title: "Fewer Manual Tasks",
+        description: "Automation and standardization of repetitive operational processes.",
       },
       {
-        title: "Demand Generation",
-        description: "Capturing qualified leads through targeted campaigns.",
+        title: "Greater Visibility",
+        description: "Clear, timely tracking of processes and financial movements.",
       },
       {
-        title: "Commercial Automation",
-        description: "Automated sales and follow-up processes.",
+        title: "Transaction Traceability",
+        description: "Recording and verification of every operation from start to finish.",
       },
       {
-        title: "Expansion into New Markets",
-        description: "Strategies adapted for international markets.",
+        title: "Optimized Operating Costs",
+        description: "More efficient use of the organization's resources.",
       },
       {
-        title: "Measurement & Optimization",
-        description: "Continuous campaign adjustment based on real metrics.",
+        title: "Security & Control",
+        description: "Internal control procedures that reduce operational risk.",
       },
     ],
   },
 
   transparencyBanner: {
     label: "Transparency & Results Clause",
-    text: "ARSOSPA MARKETING - FZCO delivers digital marketing strategy, implementation, and management services under formal contracts. The company does NOT guarantee specific campaign results, nor does it manage third-party advertising budgets beyond what is expressly authorized by contract.",
+    text: "ARSOSPA MARKETING - FZCO provides financial and operational consulting and technology development services under formal contracts. The company does NOT guarantee specific results, and final decisions rest exclusively with each client.",
   },
 
   compliance: {
@@ -180,7 +201,7 @@ export const siteContentEn = {
       {
         title: "Defined Scope & Deliverables",
         description:
-          "Every campaign or strategy is scoped to measurable objectives and deliverables.",
+          "Every project is scoped to defined objectives and deliverables.",
       },
       {
         title: "Confidentiality Agreements",
@@ -255,9 +276,9 @@ export const siteContentEn = {
       {
         title: "Services",
         items: [
-          "Digital Marketing",
-          "Sales Automation",
-          "International Expansion",
+          "Financial Consulting",
+          "Payments & Collections",
+          "Technology Development",
         ],
       },
       {

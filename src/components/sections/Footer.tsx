@@ -15,9 +15,9 @@ function hrefForFooterItem(item: string) {
     case "Privacy Notice":
     case "Terms of Use":
       return "#compliance";
-    case "Digital Marketing":
-    case "Sales Automation":
-    case "International Expansion":
+    case "Financial Consulting":
+    case "Payments & Collections":
+    case "Technology Development":
       return "#services";
     default:
       return "#contact";
